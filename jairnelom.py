@@ -1,7 +1,7 @@
 
 import time
 import winsound
-sleeptime=0.1
+sleeptime=2.5
 def c1():
     print("""
              |follow|or|attack|""")
@@ -443,7 +443,6 @@ def q1():
             choice3 = input()
             if choice3 == 'jay':
                 print("troll that is the right answer")
-                death()
                 q2()
                 x=False
             elif choice3 == 'jair':
