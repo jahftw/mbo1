@@ -542,7 +542,8 @@ def q5():
         princes()
         print("princess daisy:that was for my kingdom")
         print("the princess walks off to the sunset a free woman")
-        print("and jay took a good sleep")
+        print("and jay took our hero knight after a long adventure took a long sleep")
+
         sleepyhead()
       #the end 
 
