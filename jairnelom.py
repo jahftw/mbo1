@@ -126,24 +126,7 @@ def princes():
            (((' . ')))
            (((\_-_/)))
            (((_) (_)))
-          /((( \ / )))\
-         / (((  ^  ))) \
-        / / ((  ^  )) \ \
-       ( (   \  ^  /   ) )
-        \ \   )www(   / /
-         `\\ /     \ //'
-           /'       `\
-          /           \
-         /             \
-        /               \
-       /                 \
-      /                   \
-     /                     \
-    /                       \
-   /                         \
-  /                           \ jgs
- |                             |
-  `-----......_____......-----'
+        
 
     """)
 def death ():
@@ -507,7 +490,9 @@ def q3():
        
 
 def q4():
+        troll()
         print("what is the name of youre dear princess")
+        c8()
         x=True
         while x == True:
             choice3 = input()
